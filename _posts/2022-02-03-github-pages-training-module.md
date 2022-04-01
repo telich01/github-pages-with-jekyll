@@ -1,5 +1,5 @@
 ---
-title: My GitHub Pages Blog Post
+title: "My GitHub Pages Blog Post"
 date: 2022-04-01
 ---
 
