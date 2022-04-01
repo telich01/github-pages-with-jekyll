@@ -1,3 +1,8 @@
+---
+title: My GitHub Pages Blog Post
+date: 2022-04-01
+---
+
 I'm adding some detail to this post.
 
 ## Header 2
